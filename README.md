@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: passing incorrect argument types to a function. The `calculateArea` function expects two integer arguments, but an example shows passing a String instead of an Int.  This leads to a compile-time error. The solution shows how to handle potential type mismatches using optional types or type checking.
